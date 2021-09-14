@@ -7,7 +7,7 @@ A simple music bot for Discord. Made with discord.js.
 ## Installation
 
 ```powershell
-# Clone the main repository, and then run:
+# Clone the main repository, cd into the project directory, and install dependencies:
 $ git clone https://github.com/redoral/jiro-discord-bot
 $ cd jiro-discord-bot
 $ npm install
