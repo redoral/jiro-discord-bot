@@ -5,6 +5,10 @@ A simple music bot for Discord. Made with discord.js.
 [Kyoka Jiro](https://myheroacademia.fandom.com/wiki/Kyoka_Jiro) is a character from the anime [My Hero Academia](https://en.wikipedia.org/wiki/My_Hero_Academia).
 
 ## Installation
+#### Prerequisites
+1. [Node.js](https://nodejs.org/en/download/)
+2. [FFMPEG](https://www.ffmpeg.org/download.html)
+
 
 ```powershell
 # Clone the main repository, cd into the project directory, and install dependencies:
@@ -15,7 +19,7 @@ $ npm install
 # Create a .env file in the root directory and add in your bot's token:
 TOKEN='dASid123ASDJHsashjsS123SbsjdS'
 
-# Download FFMPEG and put ffmpeg.exe and put it in the project's root directory:
+# Download FFMPEG and put ffmpeg.exe in the project's root directory:
 https://www.ffmpeg.org/download.html
 
 # Start the bot!
