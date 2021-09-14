@@ -8,6 +8,8 @@ A simple music bot for Discord. Made with discord.js.
 
 ```powershell
 # Clone the main repository, and then run:
+$ git clone https://github.com/redoral/jiro-discord-bot
+$ cd jiro-discord-bot
 $ npm install
 
 # Create a .env file in the root directory and add in your bot's token:
