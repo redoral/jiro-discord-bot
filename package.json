@@ -1,7 +1,7 @@
 {
 	"name": "jiro-discord-bot",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A Discord music bot.",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
@@ -11,17 +11,17 @@
 		"type": "git",
 		"url": "git+https://github.com/redoral/jiro-discord-bot.git"
 	},
-	"author": "",
+	"author": "Red Oral",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/redoral/jiro-discord-bot/issues"
 	},
 	"homepage": "https://github.com/redoral/jiro-discord-bot#readme",
 	"dependencies": {
-		"@discordjs/opus": "^0.6.0",
-		"discord.js": "^13.1.0",
+		"@discordjs/opus": "^0.5.3",
+		"discord.js": "^12.5.3",
 		"dotenv": "^10.0.0",
-		"ffmpeg": "0.0.4",
+		"ffmpeg": "^0.0.4",
 		"fluent-ffmpeg": "^2.1.2",
 		"ytdl-core": "^4.9.1"
 	}
