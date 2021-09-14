@@ -1,6 +1,8 @@
-# Jiro Discord Bot 🎧🎶
+# Kyoka Jiro Discord Bot 🎧🎶
 
 A simple music bot for Discord. Made with discord.js.
+
+[Kyoka Jiro](https://myheroacademia.fandom.com/wiki/Kyoka_Jiro) is a character from the anime [My Hero Academia](https://en.wikipedia.org/wiki/My_Hero_Academia).
 
 ## Installation
 
